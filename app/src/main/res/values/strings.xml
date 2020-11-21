@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practica09_Atahuachi</string>
+    <!-- ADDITIONAL -->
+    <string name="instructions">Ingrese el Nombre del Libro para Conocer a su Autor</string>
+    <string name="actionSettings">Cambiar Color</string>
+    <string name="textButton">Buscar</string>
+    <string name="spColor_bar">Color de Barra</string>
+    <string name="inputHint">Título del Libro</string>
+    <string name="title1">Libro</string>
+    <string name="title2">Detalle</string>
+    <string name="results">Resultados:</string>
+    <string name="additional">Informacion Adicional:</string>
+    <string name="empty">Vacio</string>
+    <string name="description">Descripción:</string>
+</resources>
